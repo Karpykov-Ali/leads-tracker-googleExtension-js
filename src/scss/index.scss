@@ -1,0 +1,57 @@
+@import "./base/reset";
+@import "./base/vars";
+@import "./base/fonts";
+@import "./base/base";
+
+.chrome {
+   display: flex;
+   flex-direction: column;
+   background: transparent;
+   min-width: 400px;
+
+   padding: 10px;
+
+   input {
+      border: 1px solid #0834d3;
+      max-width: 100%;
+      color: black;
+
+      padding: 10px;
+      margin-bottom: 4px;
+   }
+
+   &__buttons {
+      margin-bottom: 20px;
+
+      button {
+         background: #0834d3;
+         text-transform: uppercase;
+         font-weight: inherit;
+         transition: 0.3s;
+
+         padding: 10px 20px;
+
+         &:hover {
+            background: #052bb7;
+         }
+
+         &:last-child {
+            background: transparent;
+            border: 1px solid #0834d3;
+            color: #0834d3;
+         }
+      }
+   }
+
+   ul {
+      color: #0834d3;
+   }
+
+   li {
+      margin-bottom: 10px;
+   }
+
+   a {
+      text-decoration: underline;
+   }
+}
