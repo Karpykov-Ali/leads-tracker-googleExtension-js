@@ -9,7 +9,7 @@
 ### Open Chrome Extensions:
   - Open the Google Chrome browser.
 ### Access Extensions:
-  - Type chrome://extensions/ in the address bar and press Enter.
+  - Go to [chrome extensions](chrome://extensions/).
 ### Enable Developer Mode:
   - In the top-right corner, enable "Developer mode" by toggling the switch.
 ### Load Unpacked:
