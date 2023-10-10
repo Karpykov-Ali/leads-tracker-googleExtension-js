@@ -24,4 +24,4 @@
 > Please note that by installing extensions from sources other than the Chrome Web Store, you are taking responsibility for potential security risks. Ensure that you trust the source of the extension before proceeding.
 > Remember that this method is for development and testing purposes, and it doesn't provide automatic updates like extensions from the Chrome Web Store. Users need to manually update the extension by repeating these steps with newer versions if you release updates.
 
-[link to the site](https://karpykov-ali.github.io/leads-tracker-googleExtension-js/)
+[link to the site](https://alikarpykov.github.io/leads-tracker-googleExtension-js/)
